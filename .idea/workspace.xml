@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="423abd78-2903-4966-835c-47a33df7af52" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="423abd78-2903-4966-835c-47a33df7af52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,30 +18,74 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VybpWqzlwZqZ9YuqH1G53eGum3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java/InterviewPrograms" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15125" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StackCreationUsingLinkedList">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.imran.datastructures.Main" />
       <module name="Datastructures" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackCreationUsingDynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imran.datastructures.stack.StackCreationUsingDynamicArray" />
+      <module name="Datastructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imran.datastructures.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackCreationUsingFixedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imran.datastructures.stack.StackCreationUsingFixedArray" />
+      <module name="Datastructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imran.datastructures.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackCreationUsingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imran.datastructures.stack.StackCreationUsingLinkedList" />
+      <module name="Datastructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imran.datastructures.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,9 +114,24 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackCreationUsingLinkedList" />
+        <item itemvalue="Application.StackCreationUsingDynamicArray" />
+        <item itemvalue="Application.StackCreationUsingFixedArray" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -81,12 +143,138 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578228464816</updated>
-      <workItem from="1578228469101" duration="208000" />
+      <workItem from="1578228469101" duration="1959000" />
+      <workItem from="1578286489801" duration="35000" />
+      <workItem from="1578286638054" duration="81000" />
+      <workItem from="1578287095049" duration="40000" />
+      <workItem from="1578287169953" duration="2397000" />
+      <workItem from="1578363532317" duration="12622000" />
     </task>
+    <task id="LOCAL-00001" summary="stack creation using linked list">
+      <created>1578469749458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578469749458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stack creation using linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack creation using linked list" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1511" y="182" key="#Project_Structure" timestamp="1578489029946">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1511" y="182" key="#Project_Structure/0.0.2560.1040@0.0.2560.1040" timestamp="1578489029946" />
+    <state x="1085" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1578403822935">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1085" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1578403822935" />
+    <state x="380" y="2" key="CommitChangelistDialog2" timestamp="1578469747833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="380" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578469747833" />
+    <state x="987" y="275" key="FileChooserDialogImpl" timestamp="1578489019397">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="987" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1578489019397" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578367284397" />
+    <state width="2561" height="337" key="GridCell.Tab.0.bottom" timestamp="1578404478506">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578390784943" />
+    <state width="2561" height="337" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1578404478506" />
+    <state width="1921" height="337" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578389034995" />
+    <state width="2561" height="337" key="GridCell.Tab.0.center" timestamp="1578404478506">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578390784943" />
+    <state width="2561" height="337" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1578404478506" />
+    <state width="1921" height="337" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578389034995" />
+    <state width="2561" height="337" key="GridCell.Tab.0.left" timestamp="1578404478506">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578390784943" />
+    <state width="2561" height="337" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1578404478505" />
+    <state width="1921" height="337" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578389034995" />
+    <state width="2561" height="337" key="GridCell.Tab.0.right" timestamp="1578404478506">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578390784943" />
+    <state width="2561" height="337" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1578404478506" />
+    <state width="1921" height="337" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578389034995" />
+    <state width="1278" height="345" key="GridCell.Tab.1.bottom" timestamp="1578402773947">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578390785156" />
+    <state width="1278" height="345" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1578402773947" />
+    <state width="1921" height="345" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578385354412" />
+    <state width="1278" height="345" key="GridCell.Tab.1.center" timestamp="1578402773947">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578390785156" />
+    <state width="1278" height="345" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1578402773947" />
+    <state width="1921" height="345" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578385354412" />
+    <state width="1278" height="345" key="GridCell.Tab.1.left" timestamp="1578402773947">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578390785155" />
+    <state width="1278" height="345" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1578402773947" />
+    <state width="1921" height="345" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578385354412" />
+    <state width="1278" height="345" key="GridCell.Tab.1.right" timestamp="1578402773947">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578390785156" />
+    <state width="1278" height="345" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1578402773947" />
+    <state width="1921" height="345" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578385354412" />
+    <state x="1584" y="222" key="NewModule_or_Project.wizard" timestamp="1578489027590">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1584" y="222" key="NewModule_or_Project.wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1578489027590" />
+    <state x="1301" y="144" key="new project wizard" timestamp="1578488928414">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1301" y="144" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1578488928414" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/imran/datastructures/stack/StackCreationUsingFixedArray.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/imran/datastructures/stack/StackCreationUsingFixedArray.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/imran/datastructures/stack/StackCreationUsingDynamicArray.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
